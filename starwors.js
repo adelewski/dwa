@@ -28,7 +28,7 @@ pobierzDane();
 
     const dodajPostac = (postac) => {
 
-        console.log(postac,"123");
+        console.log(postac,"321");
 
         const karta = document.createElement("article");
         
